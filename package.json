@@ -1,0 +1,15 @@
+{
+  "name": "jamies-demo-cli",
+  "version": "0.1.0",
+  "main": "index.js",
+  "license": "MIT",
+  "bin": {
+    "moltin": "./index.js"
+  },
+  "dependencies": {
+    "chalk": "^2.3.0",
+    "commander": "^2.13.0",
+    "download-github-repo": "^0.1.4",
+    "inquirer": "^5.0.0"
+  }
+}
